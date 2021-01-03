@@ -244,6 +244,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *here be dragons*
 :::
 
+::: warning
 ```json
 {
     "one": 2,
@@ -258,3 +259,4 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
     ]
 }
 ```
+:::
