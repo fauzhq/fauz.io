@@ -248,15 +248,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ```json
 {
     "one": 2,
-    "three": {
-        "point_1": "point_2",
-        "point_3": 3.4
-    },
-    "list": [
-        "one",
-        "two",
-        "three"
-    ]
+    "title": "Markdown example"
 }
 ```
 :::
