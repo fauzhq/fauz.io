@@ -165,7 +165,7 @@ The killer feature of `markdown-it` is very effective support of
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum: :fire: :pray:
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum: :fire: :pray: 😊
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
 
