@@ -1,10 +1,8 @@
-\===  
 {  
 "title" : "This is a test post",  
 "date" : "2021-01-04",  
 "author" : "fauz"  
-}  
-\===
+}
 
 ---
 
@@ -154,9 +152,6 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
-
-  
- 
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg)
 
