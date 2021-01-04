@@ -10,9 +10,9 @@
 
 **Advertisement :)**
 
-*   [**pica**](https://nodeca.github.io/pica/demo/) - high quality and fast image  
+*   [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image  
     resize in browser.
-*   [**babelfish**](https://github.com/nodeca/babelfish/) - developer friendly  
+*   [babelfish](https://github.com/nodeca/babelfish/) - developer friendly  
     i18n with plurals support and easy syntax.
 
 You will like those projects!
@@ -55,10 +55,6 @@ test.. test... test..... test?..... test!....
 
 **This is bold text**
 
-**This is bold text**
-
-_This is italic text_
-
 _This is italic text_
 
 ~Strikethrough~
@@ -66,10 +62,6 @@ _This is italic text_
 ## Blockquotes
 
 > Blockquotes can also be nested...
-
-> ...by using additional greater-than signs right next to each other...
-
-> ...or with spaces between arrows.
 
 ## Lists
 
